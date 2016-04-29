@@ -6,4 +6,4 @@ servo motor: HK 15138
 MCU: RedBoard
 
 ![alt tag](https://github.com/hanndoddi/sonic_flag/blob/master/2points.JPG)
-https://github.com/hanndoddi/sonic_flag/blob/master/7points.JPG
+![alt tag](https://github.com/hanndoddi/sonic_flag/blob/master/7points.JPG)
