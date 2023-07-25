@@ -5,5 +5,6 @@ sonic sensor: HC-SR04
 servo motor: HK 15138
 MCU: RedBoard
 
-![alt tag](https://github.com/hanndoddi/sonic_flag/blob/master/2points.JPG)
-![alt tag](https://github.com/hanndoddi/sonic_flag/blob/master/7points.JPG)
+![track](track.jpg)
+![2point](https://github.com/hanndoddi/sonic_flag/blob/master/2points.JPG)
+![7point](https://github.com/hanndoddi/sonic_flag/blob/master/7points.JPG)
