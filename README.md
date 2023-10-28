@@ -8,3 +8,5 @@ This code was use with a sonic sensor that would raise a flag when object passed
 ![track](track.jpg)
 ![2point](https://github.com/hanndoddi/sonic_flag/blob/master/2points.JPG)
 ![7point](https://github.com/hanndoddi/sonic_flag/blob/master/7points.JPG)
+
+free to use
