@@ -11,7 +11,7 @@ Some code and wiring inspired by http://en.wikiversity.org/wiki/User:Dstaub/robo
 */
 
 #define trigPin 13
-#define echoPin 12
+#define echoPin 12 
 #define led 11
 #define led2 10
 #define restart 2
